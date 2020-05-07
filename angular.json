@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Download-manager"
+    }
+  },
+  "defaultProject": "Download-manager",
+  "cli": {
+    "analytics": "e2ffc5a5-4c21-47a6-ac52-3fa6a7bc8f4b"
+  }
 }
